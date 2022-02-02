@@ -1,2 +1,2 @@
-# app_m-t-o
+# app_meteo
 Application qui donne ma météo
