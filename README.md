@@ -20,3 +20,21 @@ We cannot se the boxes as they are empty.
 ## Version with css.
 
 ![image](https://user-images.githubusercontent.com/92374888/152211107-a57bc24b-9bf9-4223-a773-bfb456a0ca0d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorial video I followed https://www.youtube.com/watch?v=5JHqEMGkHXY&t=1181s 
+Thank you.
